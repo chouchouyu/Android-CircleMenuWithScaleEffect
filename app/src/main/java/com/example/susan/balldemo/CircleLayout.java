@@ -87,7 +87,7 @@ public class CircleLayout extends ViewGroup {
 
 
     int selfDesinWidth = (int) getContext().getResources().getDisplayMetrics().density * 120;
-    Float MAXScale = 1.4f, MIDScale = 1.1f, MINScale = 1f;
+    Float MAXScale = 1f, MIDScale = 0.8f, MINScale = 0.75f;
 
     public CircleLayout(Context context) {
         this(context, null);
