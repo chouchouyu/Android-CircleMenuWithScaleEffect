@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5465123be4439c9f06a889b9aa4cab06db4f245e">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3fd2cc43de051b00d151472065dd64e867196e79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/development/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_b75fc90509cbb93ee6c4162f30db9906116baec3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_a0cd20fabda063d9d92c540c5c6fed3db0448758/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8853f04c95a84d78802d78b96327e31340ac352b">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_125f8e47fc2067d6ba67ba08e503e97d3bec8cfb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_26926079d044d137a4dfea5ef19785c1da9457fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_40f787a3b06edec310f89bb66ad8bb9660ddf457/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_bca5fbf57e8bb4dba15bc5ad4bce747b5b88a0fd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/susan/Downloads/Android-CircleMenuWithScaleEffect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_04a59ff8246b00f511579c76680770ae74bda684/classes.dex" />
+    </item>
+
+</items>

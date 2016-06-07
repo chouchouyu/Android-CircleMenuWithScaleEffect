@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AVLoadingIndicatorView">
+        <attr name="circle_color" format="color" />
+        <attr name="centre_text" format="string" />
+        <attr name="text_size" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleLayout">
+
+        <attr name="isRotating" format="boolean" />
+        <attr name="speed" format="integer" />
+        <attr name="firstChildPosition">
+            <enum name="East" value="0" />
+            <enum name="South" value="90" />
+            <enum name="West" value="180" />
+            <enum name="North" value="270" />
+        </attr>
+    </declare-styleable>
+</resources>

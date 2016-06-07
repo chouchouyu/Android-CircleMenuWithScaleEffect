@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ripplecircle="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.susan.balldemo.RippleCircle
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ripplecircle:centre_text="本周"
+        ripplecircle:circle_color="#218A8A"
+        ripplecircle:text_size="27" />
+
+    <com.example.susan.balldemo.RippleCircle
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ripplecircle:centre_text="本月"
+        ripplecircle:text_size="27" />
+
+    <!--ripplecircle:centre_text="本月"-->
+    <!--ripplecircle:circle_color="#000000"-->
+    <!--ripplecircle:text_size="45"-->
+
+
+    <com.example.susan.balldemo.RippleCircle
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ripplecircle:centre_text="今天"
+        ripplecircle:circle_color="#08153F"
+        ripplecircle:text_size="27" />
+
+
+</merge>
