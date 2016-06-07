@@ -86,7 +86,7 @@ public class CircleLayout extends ViewGroup {
     private ObjectAnimator animator;
 
 
-    int selfDesinWidth = (int) getContext().getResources().getDisplayMetrics().density * 120;
+    int selfDesinWidth = (int) getContext().getResources().getDisplayMetrics().density * 150;
     Float MAXScale = 1f, MIDScale = 0.8f, MINScale = 0.75f;
 
     public CircleLayout(Context context) {
