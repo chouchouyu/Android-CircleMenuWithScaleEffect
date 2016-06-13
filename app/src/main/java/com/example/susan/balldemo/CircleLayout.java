@@ -313,11 +313,11 @@ public class CircleLayout extends ViewGroup {
                 } else {
                     if (degree < 90) {
                         degree += 360;
-
+  }
                         childWidth = (int) ((MINScale + ((MAXScale - MINScale) / angleDelay * (degree - 330))) * selfDesinWidth);
                         childHeight = (int) ((MINScale + ((MAXScale - MINScale) / angleDelay * (degree - 330))) * selfDesinWidth);
 
-                    }
+                  
 
                 }
             }
