@@ -303,6 +303,12 @@ public class CircleLayout extends ViewGroup {
 
             if (getChildAt(i).getTag() != null) {
                 Float degree = (Float) getChildAt(i).getTag();
+                
+                if (degree < 0) {
+                degree += 360;
+                }
+                
+                
                 if (degree >= 90 && degree < 210) {
                     childWidth = (int) ((MAXScale - ((MAXScale - MIDScale) / angleDelay * (degree - 90))) * selfDesinWidth);
                     childHeight = (int) ((MAXScale - ((MAXScale - MIDScale) / angleDelay * (degree - 90))) * selfDesinWidth);
